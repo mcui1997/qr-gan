@@ -105,12 +105,6 @@ This project demonstrates that adversarial AI can:
 - **pyzbar** - QR code scanning validation
 - **Google Colab** - GPU-accelerated training
 
-## 📚 References
-
-- Goodfellow et al. (2014) - Generative Adversarial Networks
-- Radford et al. (2015) - Unsupervised Representation Learning with DCGANs
-- QR Code ISO/IEC 18004:2015 Standard
-
 ## 🤝 Contributing
 
 This project was developed for educational purposes in cybersecurity research. Contributions and discussions about defensive measures are welcome.
@@ -118,18 +112,3 @@ This project was developed for educational purposes in cybersecurity research. C
 ## ⚖️ Disclaimer
 
 This project is for educational and research purposes only. The techniques demonstrated should not be used for malicious purposes or to compromise security systems.
-
-## 📝 License
-
-MIT License - See [LICENSE](LICENSE) file for details
-
-## 👤 Author
-
-**[Your Name]**
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-*Developed as part of AI for Cybersecurity Masters Course Project (2025)*
